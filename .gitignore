@@ -1,0 +1,2 @@
+# Ignore Extracted Shapefiles. .shp.zip files will remain.
+*.shp
