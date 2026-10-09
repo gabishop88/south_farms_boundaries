@@ -2,9 +2,12 @@
 
 This is a repository of boundaries for the UIUC South Farms. It contains boundaries that are manually collected as well as generated ones from John Deere's Operations Center.
 
-The naming conventions used in this project can be found in [naming_conventions.md](./docs/naming_conventions.md)
+The purpose of this Repository is to store the collected boundaries and document the work done and processing steps. It can be used as a place to download shapefiles or recreate them. It can also be used to compare the collected boundaries to other ones, such as those from Operations Center. 
 
 ## Available Files
+
+The naming conventions used in this project can be found in [naming_conventions.md](./docs/naming_conventions.md)
+
 > TODO: Add file tree once I have everything together.
 
 ## Point Collection
