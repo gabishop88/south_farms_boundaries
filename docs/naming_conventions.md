@@ -16,3 +16,5 @@ Unless otherwise specified, the default capitalization scheme should be snake_ca
 
 * `.md` files can be named as one word in all caps, such as `README.md` for files that are known to use that format, as with README. Otherwise, they should simply be a `descriptor`, such as `naming_conventions.md`.
 * maps should be `.pdf` files named with the `method` and `farm`, like `collected_soyface.pdf`.
+
+> For more information on the different files avaiable and their purpose, see the [README.md](../README.md)

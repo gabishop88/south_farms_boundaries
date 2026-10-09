@@ -39,4 +39,4 @@ You can automate the process using python, either through PyQGIS or a standalone
 
 ![Points to Polygons using Python in QGIS](./gifs/pyqgis_points_to_polygons.gif)
 
-> This is possible in python without QGIS. If you want help with such a script, please contact the developer.
+> This is possible in python without QGIS. If you want help with such a script, please contact the developer. More information can be found in the [README.md](../README.md)
